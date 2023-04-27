@@ -94,7 +94,7 @@
 // console.log('Tip Amount:',tipAmount)
 // console.log('Total Amount:',totalAmount)
 
-................................................................
+//................................................................
 
 //ES6 way of function
 //Arrow Function`
