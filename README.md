@@ -1,4 +1,4 @@
-# Javasript-tutorials
+# Learning-Javascript
 This is repo of me learning Javascript From Clever Programmer YT
 I am learning JS for the sake of Web Developement and I am very optimistic of what future holds of me .
 1 Hour into the course I have started building repo of it because I want to learn in public .
